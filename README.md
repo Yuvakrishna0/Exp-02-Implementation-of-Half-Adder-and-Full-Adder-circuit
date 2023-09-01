@@ -61,10 +61,7 @@ assign sum=a^b^c;
 assign carry=((a&b)|(b&c)|(c&a));
 endmodule 
 ```
-### Output:
-![Screenshot (97)](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/53b8df3f-d70a-4b1a-a5d4-8fc26e4b6f5a)
 
-![Screenshot 2023-09-01 090708](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/349cce35-5201-4458-9523-ae40ddd047df)
 
 ### RTL:
 ![Screenshot (96)](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/620eea87-19e8-4ddd-9f6b-f955ec1aee89)
@@ -78,6 +75,11 @@ endmodule
 
 
 ![Screenshot 2023-09-01 092248](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/82f5559f-74d2-47f1-95cc-de280c617750)
+
+### Output:
+![Screenshot (97)](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/53b8df3f-d70a-4b1a-a5d4-8fc26e4b6f5a)
+
+![Screenshot 2023-09-01 090708](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/349cce35-5201-4458-9523-ae40ddd047df)
 
 ### Result:
 Thus the program to implement half adder and full adder is executed successfully.
